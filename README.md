@@ -4,7 +4,7 @@ Project for analyzing and generating prompts for images of backpacks and handbag
 
 ## Structure
 - `backpacks/` & `handbags/`: Raw images
-- `Model-backpacks/` & `Model-handbags/`: Model-generated images
+- `Model-backpacks/` & `Model-handbags/`: with Model images
 - `Image_prompt.py`: Script for generating image prompts
 - `image_prompts_output.txt`: Output file with generated prompts
 
