@@ -19,7 +19,7 @@ def get_image_prompt_from_gemini(image_path):
         
         # Create the prompt
         prompt_text = """Describe this image in high detail to be able to re-generate a similar image with the same background and aesthetics with any other item. 
-        Make the prompt more defining for the image, and ignore any texts or logo from it. 
+        Make the prompt more defining for the image, and ignore any texts or logo from it and also Do not describe the product company too. 
         Focus on:
         - Background setting and environment
         - Lighting and shadows
