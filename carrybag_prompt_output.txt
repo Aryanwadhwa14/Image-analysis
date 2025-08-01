@@ -1,0 +1,304 @@
+PROMPT 1:
+Image: carrybag1.png
+Category: carrybag only
+Here's a detailed prompt to recreate a similar image with a different item, based on the provided image:
+
+**Prompt:**
+
+"A photorealistic image of [**REPLACE WITH NEW ITEM**]  sitting on a weathered, light brown wooden staircase partially nestled within lush tropical foliage.  The staircase descends slightly from the foreground towards the background, suggesting an outdoor setting.  The background includes partially visible, vibrant green tropical leaves, indicating a warm, sunny climate.  A portion of a white surfboard is subtly visible to the left, adding to the beachy theme. The lighting is soft, natural, and diffused, creating minimal harsh shadows. A slight warm glow suggests sunlight filtering through the leaves.  The overall color scheme is warm and inviting, dominated by muted yellows and greens, with the natural wood tones of the staircase providing a grounding element. The scene is captured from a slightly elevated, three-quarter angle, creating a dynamic composition. The mood is relaxed, tranquil, and evocative of summer travel or adventure. The texture of the wood is rough, showing signs of weathering and age; the foliage is lush and textured; the [**REPLACE WITH NEW ITEM'S MATERIAL AND TEXTURE**] of the new item should reflect a similar level of detail. The overall aesthetic is clean, minimalist, yet warm and inviting, with a slightly vintage, travel-inspired feel. The depth of field is shallow, drawing focus to the [**REPLACE WITH NEW ITEM**] on the stairs. Minimal environmental details, mostly focusing on the organic textures and shapes of the wood and plants. The overall atmosphere is sunny, calm, and evocative of a summer getaway."
+
+
+**Explanation of Elements:**
+
+* **Background Setting and Environment:** Lush tropical garden setting with a wooden staircase partially obscured by foliage, a hint of a beach (surfboard).
+* **Lighting and Shadows:** Soft, diffused natural sunlight filtering through leaves, minimal shadows, warm glow.
+* **Color Scheme and Mood:** Warm, muted yellows and greens, natural wood tones, relaxed, tranquil, summery mood.
+* **Composition and Framing:** Three-quarter angle, slightly elevated perspective, shallow depth of field focusing on the central object.
+* **Textures and Materials:** Weathered wood of the stairs, lush tropical leaves, and the smooth yet slightly textured surface of the item (replace with the new item’s material).
+* **Overall Aesthetic Style:** Clean, minimalist, slightly vintage, travel-inspired.
+* **Camera Angle and Perspective:** Slightly elevated three-quarter angle shot.
+* **Environmental Details:** Minimalist, focusing on the natural elements, mostly leaves and wood.
+* **Props or Accessories:** A portion of a white surfboard is visible to the left.
+* **Overall Visual Atmosphere:** Sunny, calm, evokes summer and travel.
+
+
+By replacing "[**REPLACE WITH NEW ITEM**]" and "[**REPLACE WITH NEW ITEM'S MATERIAL AND TEXTURE**]" with the specifics of your chosen object, you'll get a much more effective and precise prompt for generating a similar image.  For example, if replacing with a yellow ceramic planter, you'd say: "A photorealistic image of a yellow ceramic planter..." and "...the glazed ceramic of the planter..."
+
+
+PROMPT 2:
+Image: carrybag2.png
+Category: carrybag only
+Here's a detailed description of the image suitable for generating a similar image with a different object:
+
+
+**Prompt for Image Generation:**
+
+"A photorealistic image of [OBJECT] positioned on a light grey concrete step, slightly elevated. The step is part of an outdoor staircase leading up to a pale peach-colored wall and a pale teal wall to the left,  both walls exhibiting a textured, slightly rough plaster finish.  The scene is bathed in soft, diffused natural light, casting subtle shadows that highlight the texture of the walls and the step. The lighting suggests a sunny day, but with indirect sunlight, creating a calm and peaceful mood. The overall color palette is muted and pastel, consisting of soft greys, pale peach, and light teal. The composition is minimalist and clean, with the [OBJECT] as the central focus, slightly off-center. The camera angle is a slightly elevated three-quarter view, looking down at the [OBJECT] at a gentle angle. The texture of the [OBJECT] should be [DESCRIBE TEXTURE -e.g., smooth, metallic, slightly rough], reflecting a hint of the surrounding light. The overall aesthetic is clean, modern, and sophisticated, evoking a sense of calm and understated elegance.  The background is devoid of people or other distracting elements; the focus is solely on the [OBJECT], the steps, and the wall. The depth of field is shallow, with a slight blur towards the background, emphasizing the [OBJECT] as the main subject. Minimal environmental details; just the wall, steps and the item.  Include subtle dust motes in the air to enhance the light and depth."
+
+
+**Breakdown of Elements:**
+
+* **Background Setting and Environment:** Outdoor setting; pale peach and pale teal walls with a rough plaster texture; light grey concrete steps forming a staircase. Minimalist and uncluttered.
+
+* **Lighting and Shadows:** Soft, diffused natural light, likely indirect sunlight.  Subtle, soft shadows enhance textures without harshness.
+
+* **Color Scheme and Mood:** Muted pastel palette: soft greys, pale peach, light teal. The mood is calm, peaceful, sophisticated, and elegant.
+
+* **Composition and Framing:** Minimalist composition.  The [OBJECT] is the central focus, slightly off-center, with negative space around it. Three-quarter view, slightly elevated camera angle.
+
+* **Textures and Materials:** Smooth concrete steps, slightly rough textured plaster walls. The [OBJECT]'s texture should be described specifically (e.g., smooth metal, matte plastic, rough-hewn wood).
+
+* **Overall Aesthetic Style:** Clean, modern, minimalist, sophisticated, and subtly luxurious.
+
+* **Camera Angle and Perspective:** Slightly elevated three-quarter view, looking down at a gentle angle.
+
+* **Environmental Details:** Only the walls and steps are present.  No other objects or people.
+
+* **Props or Accessories:** None, besides the [OBJECT] itself.
+
+* **Overall Visual Atmosphere:** Calm, peaceful, sophisticated, and elegant.
+
+
+Remember to replace "[OBJECT]" with the specific item you want to render and  "[DESCRIBE TEXTURE]" with the appropriate texture description for that object.  This detailed prompt should allow for the generation of a very similar image with different objects, maintaining the overall style and aesthetic of the original.
+
+
+PROMPT 3:
+Image: carrybag3.png
+Category: carrybag only
+Here's a detailed description of the image, suitable for generating similar images with different objects:
+
+
+**Detailed Image Description for AI Prompt Generation:**
+
+The image depicts two bright red, hard-shell suitcases of varying sizes, stacked one atop the other, standing on a sun-dappled sidewalk outside a building.
+
+**Background Setting and Environment:**
+
+* The background is a dark, urban setting.  A weathered, dark-brown stone or brick building dominates the backdrop.  The building features a dark-framed, multi-paned window and a dark, heavy-looking door. A portion of a teal-green metal column or pole is partially visible in the lower left corner, suggesting a structural element of the building or street.
+
+**Lighting and Shadows:**
+
+* The lighting is natural, likely midday sunlight.  The suitcases are brightly lit, with strong contrasts between light and shadow. Harsh shadows are cast from the suitcases onto the pavement, indicating a strong light source from above. There's a generally darker mood overall, due to the dark background.
+
+**Color Scheme and Mood:**
+
+* The color scheme is a contrast between the vibrant red of the suitcases and the dark, muted tones of the urban background. The teal-green of the partially visible column adds a small but noticeable pop of color. The overall mood is somewhat moody but also vibrant, due to the bold red.
+
+**Composition and Framing:**
+
+* The composition is simple but effective, using a centered and slightly low camera angle, focusing primarily on the suitcases. The framing is tight, keeping the focus on the subject with minimal unnecessary background. A slight shallow depth of field is present, with the background slightly out of focus.
+
+**Textures and Materials:**
+
+* The suitcases appear to be made of smooth, hard plastic with subtly grooved or ribbed vertical lines creating a slight texture. The sidewalk is a textured concrete, and the building's material looks rough and aged, maybe stone or brick.
+
+**Overall Aesthetic Style:**
+
+* The overall style is minimalist, clean and slightly moody with a touch of urban chic.  The focus on the bold red suitcases against the dark background provides a stylish contrast.
+
+**Camera Angle and Perspective:**
+
+* The camera angle is slightly low and positioned directly in front of the suitcases.  The perspective is close, making the suitcases the prominent focal point.
+
+**Environmental Details:**
+
+* Subtle environmental details add depth: the slightly dusty or worn look of the building, the textured concrete of the sidewalk, a subtle hint of what appears to be a metal object partially visible in the lower right corner next to the shadow cast by the suitcases.
+
+**Props or Accessories:**
+
+* None, other than the two suitcases.
+
+**Overall Visual Atmosphere:**
+
+* The overall atmosphere is quiet and observant, suggestive of travel, anticipation, or waiting.  The contrast between the bold red and the dark urban surroundings creates a striking visual impact.
+
+
+**Prompt for AI Image Generation (with a different object):**
+
+"A photorealistic image of a [OBJECT - e.g., vintage gramophone] sitting on a sun-dappled concrete sidewalk outside a dark, weathered stone building. The building has a dark-framed, multi-paned window and a heavy dark door. A portion of a teal-green metal column is visible in the lower left.  The lighting is natural midday sun, casting harsh shadows on the sidewalk. The color scheme is a contrast between the [OBJECT'S COLOR - e.g.,  deep mahogany] of the [OBJECT] and the dark, muted tones of the background.  The composition is centered and slightly low, with a tight frame and shallow depth of field. The sidewalk is textured concrete. The overall style is minimalist, moody, and urban chic.  The image should evoke a feeling of quiet anticipation or travel."
+
+
+Remember to replace "[OBJECT]" and "[OBJECT'S COLOR]" with the specifics of your desired object.  You can also adjust the level of detail and mood as needed to fine-tune the output.
+
+
+PROMPT 4:
+Image: carrybag4.png
+Category: carrybag only
+Here's a detailed description to help regenerate a similar image with a different item, focusing on the visual elements:
+
+**Detailed Image Description for Prompt Generation:**
+
+The image depicts a minimalist, clean aesthetic.  The scene is set outdoors, in front of a large, arched wooden door set within a smooth, off-white stucco or concrete wall. The door is made of warm-toned, light brown wood with subtle vertical grain visible.  The arch of the doorway is softly rounded, adding to the gentle, curved lines of the overall composition.
+
+**Lighting and Shadows:**
+
+The lighting is soft, diffused natural light, likely from an overcast sky or soft morning/evening sun.  There are no harsh shadows; instead, gentle gradations in light and shadow subtly define the forms of the luggage and the architectural features.  The lighting enhances the textures of the materials without creating strong contrasts.
+
+**Color Scheme and Mood:**
+
+The color palette is muted and calming, featuring soft neutrals.  The main colors are off-white (the wall and one suitcase), light grey-blue (another suitcase), and a muted sage green (the tote bag).  The warm brown of the wooden door provides a grounding element. The overall mood is serene, peaceful, and sophisticated.
+
+**Composition and Framing:**
+
+The composition is simple and balanced. Three pieces of luggage are stacked neatly, forming the central focus.  They are positioned slightly off-center, creating a more visually interesting arrangement than strict symmetry. The framing is a slightly elevated medium shot, showing the luggage and a portion of the architectural background.
+
+**Textures and Materials:**
+
+The luggage appears to be made of smooth, matte plastics or hard-shell materials. The textures are relatively uniform, with subtle variations in tone reflecting the light.  The wooden door has a smooth yet slightly textured surface, suggesting a fine-grained wood. The wall has a smoother, almost velvety texture.
+
+**Overall Aesthetic Style:**
+
+The overall aesthetic is minimalist, modern, and slightly Scandinavian in feel.  It emphasizes clean lines, simple shapes, and a muted color palette. The focus is on the inherent beauty of the objects and their interaction with the architectural background.
+
+**Camera Angle and Perspective:**
+
+The camera angle is slightly elevated, looking down onto the luggage. The perspective is relatively straight-on, minimizing distortion.
+
+**Environmental Details:**
+
+The only environmental detail, beyond the door and wall, is the subtly textured ground beneath the luggage – possibly concrete or paving stones, subtly visible.
+
+**Props or Accessories:**
+
+The props are three pieces of luggage: a small, wheeled suitcase (off-white), a slightly larger wheeled suitcase (light blue-grey), and a smaller, soft-sided tote bag (sage green) placed on top.
+
+**Overall Visual Atmosphere:**
+
+The atmosphere is calm, inviting, and sophisticated. The image evokes a sense of tranquility and minimalist elegance.
+
+
+**Prompt for Recreation with a Different Item (e.g., a plant):**
+
+"A photorealistic image of a potted [Plant Type, e.g., large fiddle leaf fig] positioned slightly off-center in front of a large, arched wooden door set within a smooth off-white stucco wall. The door is made of warm-toned light brown wood with subtle vertical grain.  Soft, diffused natural light illuminates the scene, casting gentle shadows. The color palette is muted and calming, featuring off-white, light grey-blue, and the green hues of the plant.  The overall composition is minimalist and balanced. The camera angle is slightly elevated, giving a medium shot of the plant and part of the architectural background. The plant sits on the same subtly textured ground (concrete or paving stones).  The style is modern, minimalist, and slightly Scandinavian, evoking a sense of tranquility and elegant simplicity."
+
+
+This detailed prompt should help create a visually consistent image, regardless of the item you choose to replace the luggage. Remember to specify the plant type or any other object's details (size, color variations, etc.) for precise results.
+
+
+PROMPT 5:
+Image: carrybag5.png
+Category: carrybag only
+Here's a detailed prompt to recreate a similar image with a different item, based on the provided image:
+
+
+**Prompt:**
+
+Create a product shot featuring a [New Item] in a minimalist style. The scene should be set outdoors on a light-grey, textured paved surface, adjacent to a light beige/grey stone building with subtle architectural detailing. The building's facade should be slightly out of focus, acting as a blurred backdrop.  The lighting should be soft and natural, simulating a slightly overcast day with even, diffused light, creating subtle, soft shadows under the [New Item] and behind the person.  
+
+The color scheme should be muted and neutral, consisting primarily of off-white, beige, light greys, and the color of the [New Item]. The overall mood should be calm, sophisticated, and subtly luxurious, evoking a sense of modern travel or urban lifestyle.
+
+The composition should be a medium shot, showcasing a person (from the waist down, slightly angled profile view, dressed in neutral-toned, simple clothing – off-white t-shirt and light beige chinos) casually walking and pulling the [New Item] with a slightly extended arm, keeping the [New Item] in the center of the frame, in a slightly 3/4 view angled slightly away from the camera.  The camera angle should be slightly low, positioned at approximately waist height in relation to the person. This low angle creates a more dynamic and engaging composition.
+
+The [New Item] should appear modern and sleek, with a smooth, slightly glossy surface texture (similar to the polycarbonate luggage in the reference image).  The focus should be sharp on the [New Item].  The person and background should be slightly less sharp but still recognizable for context.  
+
+The overall aesthetic style should be clean, modern, and lifestyle-oriented, avoiding any overly stylized or artificial elements.  The overall visual atmosphere should suggest a calm and purposeful movement, with an understated elegance. No additional props or accessories besides the person and the [New Item] are needed.
+
+
+**Example using a "stylish backpack" as the new item:**
+
+Create a product shot featuring a stylish backpack in a minimalist style. The scene should be set outdoors on a light-grey, textured paved surface, adjacent to a light beige/grey stone building with subtle architectural detailing. The building's facade should be slightly out of focus, acting as a blurred backdrop. The lighting should be soft and natural, simulating a slightly overcast day with even, diffused light, creating subtle, soft shadows under the stylish backpack and behind the person.  The color scheme should be muted and neutral, consisting primarily of off-white, beige, light greys, and the color of the stylish backpack (e.g., navy blue). The overall mood should be calm, sophisticated, and subtly luxurious, evoking a sense of modern travel or urban lifestyle. The composition should be a medium shot, showcasing a person (from the waist down, slightly angled profile view, dressed in neutral-toned, simple clothing – off-white t-shirt and light beige chinos) casually walking and carrying the stylish backpack, keeping the backpack in the center of the frame, in a slightly 3/4 view angled slightly away from the camera. The camera angle should be slightly low, positioned at approximately waist height in relation to the person. This low angle creates a more dynamic and engaging composition. The stylish backpack should appear modern and sleek, with a smooth, slightly glossy surface texture. The focus should be sharp on the stylish backpack. The person and background should be slightly less sharp but still recognizable for context. The overall aesthetic style should be clean, modern, and lifestyle-oriented, avoiding any overly stylized or artificial elements. The overall visual atmosphere should suggest a calm and purposeful movement, with an understated elegance. No additional props or accessories besides the person and the stylish backpack are needed.
+
+
+PROMPT 6:
+Image: model-carrybag1.png
+Category: carrybag with model
+Here's a detailed prompt to recreate a similar image with a different item, based on your provided image:
+
+**Prompt:**
+
+Generate an image of a [**NEW ITEM**, e.g., a vintage-style bicycle, a handcrafted wooden surfboard, a sleek modern laptop] positioned on a pale beige stone staircase overlooking a calm sea under a bright, clear sky.  The staircase is part of a grand, classical-style building with ornate detailing visible on a creamy-beige stone column to the left.  The column features embossed, Art Deco-inspired floral and geometric patterns.
+
+The scene is bathed in warm, golden sunlight, casting soft shadows on the staircase and the [**NEW ITEM**]. The overall color palette is muted and sophisticated, with earth tones dominating: beige, cream, taupe, and dark olive green. The lighting should be soft and diffused, creating a serene and contemplative mood.
+
+The [**NEW ITEM**] should be sharply focused, while the background elements are slightly softer. The camera angle should be a slightly low-angle, three-quarter view, providing a sense of grandeur and perspective. The texture of the stone staircase should be visible, appearing smooth but with subtle graininess. The sea should appear calm and a tranquil light blue-green, extending to the horizon.
+
+The aesthetic style should evoke a sense of timeless elegance and understated luxury, reminiscent of classic travel posters or high-end lifestyle photography.  The image's composition should be balanced, with the [**NEW ITEM**] as the central focus, but with the architectural setting and seascape playing important supporting roles.  The overall atmosphere should convey a feeling of tranquility, sophistication, and wanderlust.  Include subtle atmospheric perspective to enhance depth.  
+
+The  [**NEW ITEM**] should be slightly angled, mirroring the similar positioning of the suitcases in the original photo.
+
+
+This detailed prompt ensures the new image captures the essence of the original while allowing for the replacement of the luggage with any other subject. Remember to replace "[**NEW ITEM**]" with the specific item you want to feature.
+
+
+PROMPT 7:
+Image: model-carrybag2.png
+Category: carrybag with model
+Here's a detailed prompt to recreate a similar image with a different item, based on your description:
+
+
+**Prompt:**
+
+"A photorealistic image of a [**NEW ITEM** -  e.g., a sleek, modern handbag, a stylish hatbox, a high-end laptop case] positioned centrally in a minimalist, brightly lit interior space.  The setting is a hallway or entryway with tall, slender white columns or pilasters flanking the background, suggesting a spacious, luxurious setting. The walls are a soft, warm off-white or very light beige, creating a clean and airy atmosphere. The floor is a light, polished wood, possibly a light oak or similar, reflecting a subtle warm glow.
+
+
+The lighting is soft, diffused natural light, possibly coming from a large window subtly out of frame, creating soft, gentle shadows with no harsh contrasts. The overall color scheme is a muted, sophisticated palette of neutrals, focusing on creamy off-whites, light beige, and a subtle accent color found in the [**NEW ITEM**] itself -  (e.g.,  if the item is dark green, then consider a light sage green as a secondary accent in the scene).  The mood is calm, serene, and sophisticated, evoking a sense of quiet luxury and elegance.
+
+
+The composition is a slightly high-angle, three-quarter shot, focusing on the [**NEW ITEM**] and a fashionably dressed woman of around 30-40 years old, who is standing slightly behind and next to it, her gaze directed down at the item. She is wearing a flowing, oversized cream-colored linen shirt and loose-fitting, light beige linen pants. Her hair is neatly styled in a simple updo. She is positioned such that she is interacting with the [**NEW ITEM**] –  perhaps gently touching or adjusting it.
+
+
+The [**NEW ITEM**] should showcase high-quality materials and textures. (e.g., If a handbag, it might have smooth leather, soft suede or canvas). The overall aesthetic is clean, modern, and slightly Scandinavian in its minimalist approach. The background is kept uncluttered to let the [**NEW ITEM**] and the woman be the focus.  The camera angle and perspective are carefully chosen to highlight the textures, colors, and design of the [**NEW ITEM**]. Minor props, such as a subtle shadow or light reflection off the polished wooden floor can enhance realism. The overall visual atmosphere should convey sophistication, calm, and understated elegance. "
+
+
+Remember to replace "[**NEW ITEM**]" with the specific item you want to feature.  Adjust the accent color suggestion to match the color of your chosen item.  This prompt provides a highly detailed description that aims to be replicable with diverse object choices, preserving the core aesthetic.
+
+
+PROMPT 8:
+Image: model-carrybag3.png
+Category: carrybag with model
+Here's a detailed prompt to recreate a similar image with a different item, based on the provided image:
+
+**Prompt:**
+
+"A photorealistic image of a person standing on a minimalist, modern outdoor balcony, slightly off-center in the frame.  The background features a clean, light-colored concrete or stucco building with a sharp, geometric architectural design. The sky is a clear, bright, but slightly hazy light blue, suggesting a sunny day.
+
+The lighting is soft and diffused, with natural light illuminating the scene.  Gentle shadows are cast by the person and the luggage, indicating the sun is relatively high in the sky.  The overall color scheme is muted and pastel, with a predominant blush pink accent color found in the main item.  The mood is calm, serene, and sophisticated, conveying a sense of stylish travel or effortless relaxation.
+
+The composition is a medium shot, with a focus on the person and the item.  The framing emphasizes the clean lines of the architecture and the simplicity of the scene.  The textures are smooth and matte; the person’s clothing (replace the clothing as you wish), the building material, and the item's surface (the new item should have a similar smooth, matte finish).  The overall aesthetic style is contemporary and minimal, with a focus on clean lines, soft colors, and a sophisticated atmosphere.
+
+
+The camera angle is slightly elevated, looking down on the scene, giving a somewhat elongated perspective. The camera is at a roughly eye-level view of the person, creating a sense of realism and intimacy. 
+
+Environmental details include a pale pink tiled or concrete flooring on the balcony. There are no other unnecessary details or visual clutter in the environment.  The item that replaces the pink luggage is presented next to the person, similar in scale and placement. The new item should have a similar color and material to the blush pink luggage.
+
+The overall visual atmosphere is one of understated elegance, calm, and refined simplicity. The image should evoke a feeling of peacefulness and stylish modern living. Replace the blush pink luggage with a [**insert the new item here, e.g., a blush pink surfboard, a blush pink minimalist plant pot, etc.**]  The person should be dressed in stylish, neutral-toned clothing appropriate for the new item (example: casual summer outfit if a surfboard is used, a simple dress and sandals if a plant pot is used). The image should maintain the same aesthetic, lighting and compositional principles as the original image."
+
+
+This detailed prompt should allow for the generation of a very similar image with a different item, retaining the original's aesthetic and atmosphere.  Remember to specify the new item to replace the luggage in the bracketed section.
+
+
+PROMPT 9:
+Image: model-carrybag4.png
+Category: carrybag with model
+Here's a detailed prompt to recreate a similar image with a different item, based on your analysis of the provided image:
+
+**Prompt:**
+
+Generate an image of a stylish, minimalist scene depicting a woman standing next to a [**NEW ITEM - e.g., a sleek, modern surfboard**] on a sun-drenched, minimalist architectural platform overlooking a calm, azure sea.
+
+**Specific Details:**
+
+* **Background Setting & Environment:**  The scene is set on a pristine white architectural platform, possibly part of a minimalist villa or hotel, overlooking a tranquil, clear blue ocean under a bright, cloudless sky.  Several dark grey/black volcanic rocks are scattered naturally near the platform, adding textural contrast to the clean lines. The horizon line should be approximately one-third up from the bottom of the frame.
+
+* **Lighting & Shadows:** The lighting is bright, natural sunlight, casting soft, subtle shadows from the woman and the [**NEW ITEM**] onto the white platform. The overall lighting is soft and diffused, avoiding harsh highlights or deep, dark shadows.
+
+* **Color Scheme & Mood:** The color palette is calm and sophisticated.  Dominant colors are: soft, muted teal/aqua (matching the original suitcase color, ideally reflecting on the [**NEW ITEM**] if appropriate),  a soft olive green (matching the woman's dress), off-white or light beige of the platform, and the deep blue of the ocean. The overall mood is serene, peaceful, and luxurious.
+
+* **Composition & Framing:** The composition is clean and simple, with the woman positioned slightly off-center, her gaze directed towards the ocean.  The [**NEW ITEM**] should be positioned prominently near her,  creating a balanced composition. The frame is a medium shot, showcasing both the woman and the [**NEW ITEM**] fully.
+
+* **Textures & Materials:**  The woman's dress should appear lightweight and slightly textured linen or cotton. The platform is smooth, possibly concrete or polished stone. The [**NEW ITEM**] should exhibit a smooth, modern finish. The rocks should be rough and natural.
+
+* **Overall Aesthetic Style:** The overall aesthetic is minimalist, modern, and luxurious, evocative of high-end travel and lifestyle photography.  Emphasis on clean lines, soft colors, and natural light.
+
+* **Camera Angle & Perspective:** The camera angle is slightly elevated, looking down on the scene, giving a slightly elevated but not extreme perspective.  The view is a three-quarter view of the woman.
+
+* **Environmental Details:** A clear, calm ocean, with a visible horizon line. A cloudless, bright blue sky.  Simple, uncluttered architectural elements.
+
+* **Props & Accessories:** The woman is wearing simple, elegant sandals and a slightly loose-fitting olive-green dress with a belt.  This can be changed if it clashes with the new item.
+
+* **Overall Visual Atmosphere:** The overall atmosphere should be serene, luxurious, peaceful, and effortlessly stylish. The image should evoke a sense of relaxation, tranquility, and upscale travel.
+
+
+By replacing "[**NEW ITEM - e.g., a sleek, modern surfboard**]" with your desired object, you'll have a refined prompt that allows for consistent recreation of this scene's aesthetic with a different item.  Remember to specify materials and colors of the new item to match the existing palette.
+
+

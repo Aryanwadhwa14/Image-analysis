@@ -1,0 +1,542 @@
+PROMPT 1:
+Image: casual-shoe1.png
+Category: casual shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on the provided image:
+
+**Prompt:**
+
+Generate an image of a [**ITEM TO REPLACE SHOE**]  resting on a textured, off-white concrete or stone structure. The structure should resemble a large, curved architectural element, perhaps a fragment of a wall or column, with subtly visible striations and a slightly rough surface texture.  The background is a clear, bright, and slightly hazy blue sky, suggesting a sunny day.
+
+The lighting should be soft and natural, with a high-key feel. The light source is primarily overhead, casting subtle, soft shadows on the structure, indicating a time of day around midday. The overall color palette is muted and warm, consisting mainly of off-whites, creams, and pale beige tones, contrasted by the vibrant, yet slightly desaturated blue of the sky.
+
+The composition should be a close-up, medium shot. The [**ITEM TO REPLACE SHOE**] is prominently featured, positioned slightly off-center on the structure, angled to create visual interest.  The framing should emphasize the contrast between the smooth surface of the [**ITEM TO REPLACE SHOE**] (or other object's surface texture if it is different) and the rough texture of the stone structure.
+
+The overall aesthetic is minimalist and clean, with a focus on natural materials and textures. The mood is serene, calm, and sophisticated. The camera angle is slightly elevated, looking down at the [**ITEM TO REPLACE SHOE**] and the structure, creating a sense of perspective and scale. There are no other props or accessories visible besides the main [**ITEM TO REPLACE SHOE**]. The overall visual atmosphere is one of quiet contemplation and understated elegance.
+
+
+**Example using a different item:**
+
+Generate an image of a vintage brass compass resting on a textured, off-white concrete or stone structure. ... (continue with the rest of the prompt as above).
+
+
+By replacing "[**ITEM TO REPLACE SHOE**]" with the desired object and maintaining the other descriptive elements, you can generate an image with a consistent background and aesthetic.  Remember to specify the texture of the replacement item to maintain consistency.
+
+
+PROMPT 2:
+Image: casual-shoe2.png
+Category: casual shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on the provided image:
+
+
+**Prompt:**
+
+Generate a photorealistic image of [**NEW ITEM**] resting on a weathered, white wooden slatted bench outdoors.  The bench is slightly angled, creating a dynamic composition. The lighting is bright and natural, characteristic of a sunny day; think of strong, diffused sunlight, casting soft shadows beneath and around the [**NEW ITEM**] and subtly highlighting its texture.
+
+The color scheme should be bright and summery, dominated by soft, off-white or creamy tones of the bench and the [**NEW ITEM**]'s main color, accented with bold, contrasting pops of vibrant cerulean blue and fuchsia pink. These accents should be present in specific details of [**NEW ITEM**], mirroring the original image's use of color.
+
+The overall aesthetic should be clean, minimalist, and stylish, with a focus on product detail and high-quality textures. The [**NEW ITEM**] should appear smooth and slightly reflective, suggesting a sleek material like leather or polished metal (depending on the nature of the [**NEW ITEM**] itself). The wooden slats of the bench should have a visible grain and subtle imperfections, adding a touch of natural texture.
+
+The camera angle should be a slightly elevated, three-quarter view, providing a clear view of the [**NEW ITEM**] and its surrounding space. The depth of field should be shallow enough to blur the background slightly, keeping the focus on the [**NEW ITEM**].
+
+Environmental details are crucial: the background should be subtly blurred, revealing more white wooden slats extending into the distance; a hint of bright, out-of-focus background beyond the bench's edge may be included to suggest an outdoor setting.  The overall atmosphere should feel relaxed, luxurious, and sophisticated, evoking a sense of summer leisure.  
+
+No other props or accessories besides the [**NEW ITEM**] and the bench should be visible.  The image should have a slightly desaturated look that is natural and not overly processed.
+
+
+**Remember to replace "[NEW ITEM]" with the actual item you want to photograph.** For example: "Generate a photorealistic image of a vintage wristwatch resting on a weathered, white wooden slatted bench outdoors..."
+
+
+PROMPT 3:
+Image: casual-shoe3.png
+Category: casual shoes
+Here's a detailed prompt to recreate a similar image, focusing on the visual aspects and ignoring any branding:
+
+**Prompt:**
+
+Generate an image of a [insert item here, e.g.,  a vintage leather briefcase, a ceramic vase, a handcrafted wooden bowl] resting on a pile of rough, textured volcanic rocks.  The rocks should vary in size and shape, with some larger rocks forming a base and smaller ones scattered around. The overall color palette should be muted earth tones, ranging from light beige and sandy browns to darker taupe and grayish-brown hues. The rocks should appear dry and sun-baked, with subtle variations in shading indicating textural depth and crevices.
+
+The lighting should be bright, natural sunlight, coming from a high angle, casting soft, diffused shadows that enhance the three-dimensionality of both the object and the rocks. The shadows should be subtle, not harsh, contributing to a calm and serene atmosphere. The overall mood should be minimalist, clean, and slightly evocative of a desert landscape.
+
+The composition should be a close-up shot, focusing primarily on the object placed strategically among the rocks.  The camera angle should be slightly elevated, looking down at the object at approximately a 30-degree angle. The background should consist of a clear, unblemished bright blue sky, occupying roughly the upper third of the frame, creating a contrast with the earthy foreground.
+
+The [insert item here, e.g., briefcase, vase, bowl] should appear slightly dusty, suggesting it's been exposed to the elements, maintaining a natural and slightly worn look. The textures of the item should be clearly visible and complement the roughness of the volcanic rocks. The overall aesthetic style should be high-end product photography, emphasizing the quality and craftsmanship of the object.  The image should be sharp and well-lit, with a shallow depth of field, slightly blurring the background rocks. The overall visual atmosphere is one of quiet dignity, simplicity, and understated luxury.
+
+
+This detailed prompt should allow an AI image generator to recreate a similar image with a different object while maintaining the consistent visual elements from the original.  Remember to replace "[insert item here]" with your desired object.
+
+
+PROMPT 4:
+Image: casual-shoe4.png
+Category: casual shoes
+Here's a detailed prompt to recreate a similar image, focusing on the visual aspects and ignoring any branding:
+
+**Prompt:**
+
+Create a photorealistic image of a [**NEW ITEM** - e.g., a vintage baseball glove]  resting on a worn, reddish-brown outdoor basketball court.  The court should show texture and slight graininess in the asphalt, with faded white lines marking the boundaries.  A slightly deflated, vintage-looking basketball sits near the [**NEW ITEM**], partially overlapping it. The basketball should be off-white with slightly yellowed, worn lines.
+
+The lighting should be natural, soft, and diffused, suggestive of a sunny day with some light cloud cover.  Shadows should be soft and long, cast by the sun at a relatively high angle (around mid-day).  The overall color scheme is warm and slightly desaturated, with a vintage or nostalgic feel. The predominant colors are muted reds and browns of the court, off-white of the basketball, and [**NEW ITEM'S COLORS** - e.g., the rich brown and dark tan of the leather glove] . The mood should be relaxed and evocative of a sunny afternoon.
+
+The composition should be centered around the [**NEW ITEM**] and the basketball, using a slightly high-angle, close-up perspective.  The depth of field should be shallow, blurring the background slightly to emphasize the [**NEW ITEM**] and the basketball.   The texture should be highly realistic, conveying the worn leather of the basketball, the rough asphalt of the court and the [**NEW ITEM'S TEXTURE** - e.g., the worn but supple leather of the baseball glove]. The overall aesthetic is vintage-inspired, with a slightly faded and nostalgic feel reminiscent of old photographs.
+
+Environmental details include the visible texture of the basketball court, subtle shadows suggesting the time of day, and possibly a hint of natural surroundings in the blurred background (like the suggestion of trees or buildings out of focus).  Avoid overly sharp, clean lines or overly saturated colors.  The overall visual atmosphere should feel nostalgic and relaxed.  The image should evoke a feeling of a quiet, sunny afternoon on a basketball court.
+
+
+This detailed prompt allows for the replacement of the sneakers with any other object while maintaining the specific background, lighting, and overall stylistic elements of the original image. Remember to replace the bracketed placeholders with details relevant to your chosen replacement item.
+
+
+PROMPT 5:
+Image: casual-shoe5.png
+Category: casual shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on the provided image:
+
+**Prompt:**
+
+"A high-resolution photograph of [ITEM],  placed on a rough-textured, light gray-brown, slightly oblong rock, which is situated on a sandy beach. The rock is centrally positioned and acts as the main focal point.  The background features a softly blurred, slightly overcast sky meeting a calm, shallow ocean with a muted blue-gray color. The overall lighting is soft and diffused, creating gentle shadows under the rock and subtle highlights on the [ITEM]’s surface. The color scheme is muted and natural, with earthy tones predominating: beige, sandy browns, muted blues and grays.  A second, similar [ITEM] (but a different color) rests precariously on top of the rock, partially obscuring the main [ITEM]. The overall mood is serene, peaceful, and subtly evocative of coastal relaxation. The composition is slightly elevated, with a slightly low angle shot giving a perspective that emphasizes the [ITEM] and its placement on the rock. The texture of the sand is fine and slightly damp. The [ITEM]'s material is [MATERIAL], with a slightly matte finish. The overall aesthetic is minimalist and stylish, suggesting a lifestyle product image.  The image is sharp and focuses mainly on the [ITEM] and the rock; the background is slightly out of focus to draw attention to the main subject. There is a subtle hint of orange-tan tones on the sand reflecting the light."
+
+**Remember to replace "[ITEM]" and "[MATERIAL]" with the details of the new item you wish to depict.** For example, if you wanted to recreate this with a stylish watch, you would replace those placeholders accordingly.  The more detail you provide about the new item (its color, texture, material, etc.), the better the AI can generate a similar image.
+
+
+PROMPT 6:
+Image: formal-shoe1.png
+Category: formal shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on the provided image:
+
+**Prompt:**
+
+Generate a product shot of [ITEM] using a minimalist aesthetic.  The background is a pale, warm beige or blush tone surface, subtly textured with a soft matte finish.  Strong, directional sunlight streams from an unseen window, casting long, narrow shadows with clearly defined edges across the background; these shadows are reminiscent of window panes, appearing as parallel, slightly overlapping lines radiating from the upper-right towards the lower-left. The lighting creates a soft, even highlight on the [ITEM], with gentle, natural-looking shadows underneath and around it.
+
+The color scheme is warm and muted, with the beige background dominating. The [ITEM] should have a rich, deep brown tone.  Any metallic accents (if applicable) should be a polished, warm gold. The overall mood should feel sophisticated, elegant, and subtly luxurious.
+
+The composition uses a slight high-angle shot.  The [ITEM] is centered but slightly off-kilter for visual interest, resting on a pair of geometric, minimalistic light beige, matte triangular platforms. The platforms are positioned subtly at an angle to enhance the overall composition.  The [ITEM] should be sharply in focus, with a shallow depth of field subtly blurring the background.
+
+The textures must be realistic; the [ITEM] exhibits a smooth, polished leather-like texture with a subtle sheen. The triangular platforms have a smooth, almost velvety matte finish.
+
+The overall aesthetic should emulate high-end fashion photography, emphasizing clean lines and a focus on the quality and details of the [ITEM]. Avoid excessive saturation or harsh contrast.  The environment is clean, uncluttered, and free of distracting elements except for the subtle interplay of light and shadow.  
+
+**Replace "[ITEM]" with the item you want to photograph.**  For example, if you want to photograph a watch, you'd write: "Generate a product shot of a luxury watch...".  If it's a perfume bottle, it would be: "Generate a product shot of a perfume bottle...". This level of detail ensures the generated image closely matches the style and aesthetics of the original.
+
+
+PROMPT 7:
+Image: formal-shoe2.png
+Category: formal shoes
+Here's a detailed prompt to recreate a similar image, focusing on the visual elements and excluding any branding:
+
+
+**Prompt:**
+
+Generate an image of a pair of finely crafted [ITEM TO REPLACE SHOES - e.g., handcrafted ceramic vases, antique silver teacups, etc.],  resting on a piece of soft, finely woven plaid fabric. The fabric should have a predominantly grey base with thin stripes of burgundy and white, creating a subtle yet elegant pattern.  The fabric is draped artfully over a corner of a light beige, unfinished wooden box, partially visible in the frame.
+
+
+The lighting should be soft and diffused, creating gentle highlights and subtle shadows on the [ITEM TO REPLACE SHOES] to emphasize their texture and form. The overall color scheme should be warm and sophisticated, with the deep brown of the [ITEM TO REPLACE SHOES] contrasting beautifully against the cool greys and muted reds of the fabric and the warm beige of the wooden box. The mood should feel luxurious, classic, and timeless.
+
+
+The composition should be a close-up shot, emphasizing the [ITEM TO REPLACE SHOES] as the main focus. The camera angle should be slightly elevated, creating a perspective that looks down upon the scene, adding a touch of grandeur.  The framing should be tight but not cramped, allowing enough space to appreciate the details and texture of both the [ITEM TO REPLACE SHOES] and the fabric.
+
+
+The [ITEM TO REPLACE SHOES] should appear to have a polished, high-gloss finish, with visible details like [DESCRIBE RELEVANT DETAILS FOR YOUR ITEM - e.g., intricate carvings, delicate floral patterns, etc.]  The overall texture should feel smooth and luxurious, reflecting the light delicately. The material should appear to be high quality and high-end, reflecting the overall aesthetic of elegance and refinement.
+
+
+The overall visual atmosphere should be one of refined luxury, suggesting exclusivity and craftsmanship. The image should evoke a feeling of calm elegance and understated sophistication. The background should be a simple, neutral, slightly desaturated grey gradient, drawing all attention to the [ITEM TO REPLACE SHOES] and their setting.  This should maintain a minimalist feel, avoiding any distractions from the primary subject.
+
+
+Example, replacing "shoes" with "ceramic vases":
+
+Generate an image of a pair of finely crafted handcrafted ceramic vases, resting on a piece of soft, finely woven plaid fabric. The fabric should have a predominantly grey base with thin stripes of burgundy and white, creating a subtle yet elegant pattern. The fabric is draped artfully over a corner of a light beige, unfinished wooden box, partially visible in the frame. The lighting should be soft and diffused, creating gentle highlights and subtle shadows on the vases to emphasize their texture and form. The overall color scheme should be warm and sophisticated, with the deep brown glaze of the vases contrasting beautifully against the cool greys and muted reds of the fabric and the warm beige of the wooden box.  [...and so on, following the rest of the prompt]
+
+Remember to adapt the descriptions within the brackets "[]" to match the specific characteristics of the object you're replacing the shoes with.
+
+
+PROMPT 8:
+Image: formal-shoe3.png
+Category: formal shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on your analysis of the provided image:
+
+**Prompt:**
+
+Generate an image of a pair of [**NEW ITEM**, e.g.,  sleek, modern sunglasses] resting on a stack of two off-white, thick art books with subtly textured covers. The books are placed on a light beige, woven-paper chair seat.  The chair is made of light-toned, smoothly finished wood with a slightly rustic yet refined aesthetic. The wood has a warm, honey-like hue. The chair's legs are slender and elegantly tapered.  The seat is woven with a tightly interlaced, light beige paper cord creating a slightly textured surface. The background is a softly diffused, neutral light beige-toned hardwood floor with subtle variations in color and a light, directional light source coming from above and slightly to the front, casting gentle shadows on the books and subtly highlighting the textures of the chair and the [**NEW ITEM**]. The overall lighting is soft and diffused, creating a calm and elegant mood. The color palette is muted and natural, consisting of warm beiges, light browns, and the colors of the [**NEW ITEM**]. The composition is a simple yet elegant still life, with the [**NEW ITEM**] as the focal point, placed slightly off-center on the books. The camera angle is slightly elevated, looking down on the scene. The overall aesthetic is minimalist, clean, and sophisticated, with a focus on natural materials and textures. The image should evoke a feeling of quiet elegance and understated luxury.  Include subtle environmental details like the slightly visible edge of the chair's curved back and the soft natural wood grain texture of the chair's frame.  The depth of field should be shallow, blurring the background floor slightly and focusing attention on the [**NEW ITEM**], books, and chair seat.
+
+
+This prompt provides enough detail to recreate the scene with different items, maintaining the consistent background, lighting, color scheme, and aesthetic style of the original image.  Remember to replace "[**NEW ITEM**]" with the item you want to feature in the new image.
+
+
+PROMPT 9:
+Image: formal-shoe4.png
+Category: formal shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on your provided image:
+
+**Prompt:**
+
+Generate an image of [**ITEM TO REPLACE SHOES**]  placed on a subtly textured, light gray surface within a minimalist, geometric setting. The background is composed of two intersecting, off-white planes forming a corner, creating a V-shaped backdrop with strong light emanating from the aperture of this V-shaped opening. This light casts dramatic, sharp shadows and highlights onto the item and the surface below.
+
+The overall color scheme is muted and sophisticated, dominated by warm neutrals. The light gray of the surface contrasts with the [**COLOR OF THE ITEM**] of the [**ITEM TO REPLACE SHOES**]. The lighting is high-key, creating a clean, bright mood with a touch of drama from the defined shadows.
+
+The composition should emphasize the item as the focal point, employing a high-angle, slightly oblique camera perspective looking down. The framing is tight, focusing on the [**ITEM TO REPLACE SHOES**] and its immediate surroundings, with minimal empty space.
+
+The materials appear smooth and luxurious. The texture of the [**ITEM TO REPLACE SHOES**] should be [**TEXTURE DESCRIPTION, e.g., smooth leather, polished metal, etc.**].  The overall aesthetic style is minimalist, modern, and slightly high-fashion, conveying a sense of refined elegance and exclusivity.
+
+
+**Example using a watch:**
+
+Generate an image of a luxury wristwatch placed on a subtly textured, light gray surface within a minimalist, geometric setting. The background is composed of two intersecting, off-white planes forming a corner, creating a V-shaped backdrop with strong light emanating from the aperture of this V-shaped opening. This light casts dramatic, sharp shadows and highlights onto the watch and the surface below.
+
+The overall color scheme is muted and sophisticated, dominated by warm neutrals.  The light gray of the surface contrasts with the gold of the wristwatch. The lighting is high-key, creating a clean, bright mood with a touch of drama from the defined shadows.
+
+The composition should emphasize the watch as the focal point, employing a high-angle, slightly oblique camera perspective looking down. The framing is tight, focusing on the watch and its immediate surroundings, with minimal empty space.
+
+The materials appear smooth and luxurious. The texture of the watch should be smooth polished metal and leather strap. The overall aesthetic style is minimalist, modern, and slightly high-fashion, conveying a sense of refined elegance and exclusivity.
+
+
+Remember to replace the bracketed information with details appropriate to the item you want to depict.  Be as specific as possible with color, texture, and material descriptions for the best results.
+
+
+PROMPT 10:
+Image: formal-shoe5.png
+Category: formal shoes
+Here's a detailed prompt for recreating a similar image with a different item, based on your provided image:
+
+
+**Prompt:**
+
+Create a product shot featuring a [**REPLACE WITH NEW ITEM: e.g., a luxury watch, a stylish handbag, a pair of cufflinks**] displayed on a mid-century modern wooden chair.  The chair should be a rich, dark walnut or mahogany with a slightly curved, sculpted back and tapered legs.  The seat is upholstered in a dark grey, textured linen-like fabric.
+
+
+**Lighting and Shadows:**
+
+The lighting should be soft and diffused, creating subtle shadows that highlight the textures and forms of the object and chair. The light source should be slightly off-camera, creating a gentle highlight on the [**NEW ITEM**] and a soft shadow on the opposite side. The overall mood should be sophisticated and elegant.
+
+
+**Background and Setting:**
+
+The background should be a muted, sophisticated blue-grey backdrop. The overall scene should be minimalist and uncluttered, focusing attention on the [**NEW ITEM**] and its context.
+
+
+**Composition and Framing:**
+
+The [**NEW ITEM**] should be the central focus, placed thoughtfully on the chair. The chair itself should be slightly angled, adding visual interest. The framing should be a three-quarter view, showing the [**NEW ITEM**] and the chair in detail.
+
+
+**Textures and Materials:**
+
+The [**NEW ITEM**] should have a high level of detail. The chair’s wood should have a smooth, polished finish, contrasted with the subtle texture of the linen fabric.
+
+
+**Aesthetic Style:**
+
+The overall style should be clean, modern, and sophisticated, with a touch of mid-century elegance. A focus on quality materials and craftsmanship is key.
+
+
+**Camera Angle and Perspective:**
+
+The camera angle should be slightly elevated, looking down at the [**NEW ITEM**] on the chair, from about eye level or slightly higher. The perspective should be straightforward and unobtrusive.
+
+
+**Environmental Details:**
+
+There are no other environmental details needed, maintaining a clean and minimalist aesthetic.  No clutter or distractions.
+
+
+**Props and Accessories:**
+
+A casually draped, beige and brown plaid linen blazer should be casually draped over the back of the chair.
+
+
+**Visual Atmosphere:**
+
+The overall visual atmosphere should be one of quiet luxury and refined taste. The image should evoke feelings of sophistication and high quality.
+
+
+By carefully replacing "[**REPLACE WITH NEW ITEM**]" with the desired product and adjusting details as needed for the specific item, this prompt should provide enough information to generate an image similar to the original example, but showcasing a different product.
+
+
+PROMPT 11:
+Image: model-casual-shoe1.png
+Category: model with casual shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on your description and the provided image:
+
+
+**Prompt:**
+
+Generate a photorealistic image of a pair of [**NEW ITEM, e.g., stylish leather gloves**] positioned centrally in the foreground on a dark grey, subtly textured floor. The gloves should be angled slightly towards the viewer, mimicking the slight forward tilt of the shoes in the reference image.   Behind the gloves, positioned slightly off-center, is a [**NEW PROP similar to a basketball in size and shape e.g., a vintage leather duffel bag**]. The prop rests partially behind the gloves, subtly overlapping with them.
+
+The background is a muted, dark grey-blue textured wall, providing a soft, slightly mottled backdrop. The lighting is soft and diffused, avoiding harsh shadows. There is a subtle, even illumination on both the gloves and the prop, creating a high-key, almost studio-like feel.  The overall color scheme is neutral and subdued, with a hint of warmth. The main colors are muted dark greys, off-whites, and a touch of [**ACCENT COLOR, e.g., deep burgundy from the original short’s color**] subtly present in the material of the gloves or prop.
+
+The composition is centered, with a vertical orientation. The perspective is a slightly low angle, looking up towards the gloves and prop, emphasizing their presence. The framing is close, tightly cropping the scene, focusing the viewer's attention on the items in the foreground.  
+
+The textures of the items are key: the [**NEW ITEM’S MATERIAL DETAILS, e.g., supple, pebbled leather with a visible grain**] of the gloves, and [**NEW PROP'S MATERIAL DETAILS, e.g., worn, textured leather showing signs of age and use**] of the prop, contrast subtly with the smooth, even texture of the floor.
+
+The overall aesthetic style is minimalist, clean, and sophisticated. The image should evoke a sense of quiet luxury and understated elegance. The mood is calm, neutral and aspirational.  The visible materials are implied to be high quality.  There are no other elements or accessories present besides the gloves, the prop and the floor.
+
+
+This prompt allows for flexibility in replacing the original items while maintaining the consistent background setting, lighting, color scheme, composition, textures, and overall aesthetic.  Remember to choose a new item and prop that have a similar size and shape relationship to maintain the balanced composition.
+
+
+PROMPT 12:
+Image: model-casual-shoe2.png
+Category: model with casual shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on your description of the provided image:
+
+**Prompt:**
+
+Generate an image of a pair of [**NEW ITEM** - e.g.,  stylish ceramic vases, a meticulously crafted wooden bowl, a stack of vintage books] resting on dark gray asphalt. The [**NEW ITEM**] should be positioned similarly to the original image's shoes – one slightly higher than the other, with a subtle overlap. 
+
+The background should be a textured, off-white concrete wall bathed in bright, natural sunlight. The light should cast soft, natural shadows on the asphalt, creating a subtle contrast and highlighting the textures of both the [**NEW ITEM**] and the ground.  The lighting should be reminiscent of a sunny day, with the sun appearing from the right side of the frame.
+
+
+The color palette should be muted and earthy, featuring beige, taupe, and light brown tones.  The overall mood should be serene, minimalistic, and slightly upscale. The overall aesthetic should be reminiscent of lifestyle or fashion photography with a focus on textures and subtle details.
+
+The composition should be a medium shot, focusing on the [**NEW ITEM**], shot from a slightly low angle, providing a perspective similar to looking down onto the subject. The framing should be clean and uncluttered, leaving ample negative space around the subject.
+
+
+The textures should be accurately rendered; the asphalt should be coarse and slightly grainy, the concrete wall should have visible texture, and the [**NEW ITEM**] should have clearly defined surface details (e.g., the grain of the wood, the glaze on the ceramic).   
+
+The overall visual atmosphere should be clean, calm, and inviting, emphasizing the natural beauty and craftsmanship of the [**NEW ITEM**].
+
+
+This prompt emphasizes all the key aspects of the original image – background, lighting, color scheme, composition, textures, and overall style – allowing for the replacement of the shoes with any other object while maintaining the image's unique aesthetic. Remember to replace "[**NEW ITEM**]" with your desired object.
+
+
+PROMPT 13:
+Image: model-casual-shoe3.png
+Category: model with casual shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on the provided image:
+
+
+**Prompt:**
+
+Generate an image of a pair of [**NEW ITEM** -  e.g.,  stylish, cream-colored leather gloves, a vintage Leica camera, a sleek, modern smartwatch] resting on a light grey stone step. The step is part of a wider urban setting with a blurred background suggesting a city street.  The item should be positioned similarly to the shoes in the reference image, with one slightly higher than the other, creating a dynamic feel.
+
+**Specific Details:**
+
+* **Background:** A softly blurred cityscape, muted greys and beige tones dominate, hinting at buildings and possibly some greenery, but nothing distractingly sharp.  The background should have a shallow depth of field, focusing attention sharply on the [**NEW ITEM**].  A dark grey or black metal post or pillar (similar in appearance to a lamppost base) should be partially visible in the background, slightly out of focus, close to the subject.
+
+* **Lighting:** Soft, diffused natural light, possibly slightly overcast,  creates minimal harsh shadows.  The light should gently illuminate the [**NEW ITEM**] and the stone steps, casting subtle shadows to emphasize texture and form.
+
+* **Color Scheme:** A muted, natural color palette with a focus on beige, cream, light grey, and muted greys.  The overall mood should be calming and sophisticated, slightly minimalist.
+
+* **Composition and Framing:** The image should be a medium close-up shot, focusing primarily on the [**NEW ITEM**] and parts of the steps. The perspective should be from a slightly low angle, looking up towards the [**NEW ITEM**] to create a slightly elevated viewpoint.  The composition should be clean, uncluttered, and aesthetically pleasing.
+
+* **Textures and Materials:** The stone steps should have a coarse, slightly textured surface.  The [**NEW ITEM**] should exhibit its appropriate texture –  e.g., the smooth leather of gloves, the metallic feel of a camera, etc.  The overall feel should be slightly tactile and realistic.
+
+* **Overall Aesthetic Style:**  Minimalist, modern, urban, with a hint of vintage sophistication and natural tones.  Think clean lines, muted colours, and a focus on subtle details.
+
+* **Camera Angle and Perspective:**  A slightly low angle, three-quarter view, similar to the original reference photo's perspective.
+
+
+* **Environmental Details:** Light grey stone steps, a blurred city street background, and a partial view of a dark grey metal post should create the urban setting.
+
+
+* **Props or Accessories:** (This section should be adjusted to suit the [**NEW ITEM**].  There are no explicit props other than the [**NEW ITEM**] and the implied urban environment.
+
+
+* **Overall Visual Atmosphere:** Calm, sophisticated, slightly mysterious, and subtly stylish. The focus should be on the visual presentation and quality of the [**NEW ITEM**] within this understated and stylish setting.
+
+
+By replacing "[**NEW ITEM**]" with your desired object and adjusting the descriptions of texture and material accordingly, this prompt should enable the AI to generate an image with a similar visual style and aesthetic to the original.
+
+
+PROMPT 14:
+Image: model-casual-shoe4.png
+Category: model with casual shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on your description and the provided image:
+
+**Prompt:**
+
+"A high-angle, close-up product shot of [**ITEM TO BE FEATURED**] resting on a light beige, textured surface resembling a basketball court.  The background features a sharply defined diagonal line separating a light beige area from a deep, slightly desaturated blue.  The color scheme is minimalist and muted, consisting primarily of off-white, beige, and a deep navy blue.  The mood is clean, modern, and slightly sporty.
+
+The lighting is soft and diffused, casting minimal shadows, suggesting even, natural lighting from above. The light accentuates the textures of the [**ITEM TO BE FEATURED**] and the background surface. The overall aesthetic is reminiscent of minimalist product photography, with a focus on clean lines and subtle contrasts.
+
+The [**ITEM TO BE FEATURED**] is positioned slightly off-center, creating a dynamic composition. A pair of tan-toned legs, belonging to a person of color, are visible in the background, the person's hands resting gently on their knees, wearing white ankle socks with subtly visible small text branding.  The socks and skin tones maintain the overall muted and warm color palette.  The visible portion of their clothing is a dark grey or black short. The image is sharply focused on the [**ITEM TO BE FEATURED**], with a shallow depth of field slightly blurring the background.
+
+The textures are key: the beige surface has a subtle, almost velvety texture, contrasting with the smooth leather and perforated details of the [**ITEM TO BE FEATURED**]. The overall visual atmosphere is sophisticated, clean and contemporary.  Ensure the visual elements are clean and well-lit without harsh lighting and focus on the contrast between the object and the background; the colors have a slightly vintage vibe, avoiding overly saturated tones."
+
+
+**Remember to replace "[ITEM TO BE FEATURED]" with the item you want to showcase in the recreated image.**  This detailed prompt provides enough information for an AI image generator to create a visually similar image, focusing on the aesthetic and environmental details rather than the specific product.
+
+
+PROMPT 15:
+Image: model-casual-shoe5.png
+Category: model with casual shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on your description of the provided image:
+
+**Prompt:**
+
+Generate an image of a pair of [**ITEM TO REPLACE SHOES, e.g., stylish headphones, a designer handbag, a vintage camera**]  displayed in a minimalist studio setting. The scene is dominated by a clean, bright white geometric platform or step, angled diagonally from the lower left to the upper right against a vibrant, deep blue backdrop. The platform’s surface is matte and subtly textured, appearing almost like a thick layer of painted plaster. The blue background is a solid, even color, creating a stark contrast with the white.
+
+
+The lighting is soft and diffused, casting very subtle, almost invisible shadows on the white platform and under the [**ITEM**], suggesting overhead, indirect lighting. This creates an even, clean illumination without harsh highlights or dark areas. The color scheme is deliberately restricted, using only the white of the platform, the deep blue of the background, and the colors of the [**ITEM**] itself, ensuring that the [**ITEM**] is the clear focal point. The overall mood is modern, clean, and sophisticated, with a hint of playful minimalism.
+
+The composition is carefully framed in a medium shot, focusing intently on the [**ITEM**] with the background providing a contrast without distracting from the subject.  The angle is slightly elevated, looking down on the [**ITEM**] from about a person's waist height.  The [**ITEM**] should be positioned to occupy the mid-ground with a small part of it resting on the upper edge of the white platform, simulating a playful display and inviting engagement.
+
+The materials should reflect the modern and sophisticated feel of the image.   The platform appears to have a slightly textured, not perfectly smooth surface, offering tactile appeal. If the [**ITEM**] has varying materials, showcase their texture as well (e.g., smooth leather, polished metal, woven fabric). No other props or accessories are present apart from the white platform. The visual atmosphere is one of calmness, visual clarity, and deliberate simplicity, focusing the viewer's attention solely on the [**ITEM**].
+
+
+PROMPT 16:
+Image: model-formal-shoe1.png
+Category: model with formal shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on your provided image:
+
+**Prompt:**
+
+Generate an image of a pair of [**NEW ITEM, e.g., luxury sunglasses, a high-end wristwatch, a stylish handbag**]  placed on the ground near the feet of a person wearing light beige chinos.  The person is sitting casually on an outdoor patio chair with a partially visible,  off-white, and navy blue chevron patterned seat cushion. The chair's frame is subtly visible and suggests a classic, possibly French bistro style.
+
+The scene is bathed in soft, natural, diffused daylight, casting gentle shadows on the ground, with the light coming from a slightly elevated angle.  The overall color palette is warm and sophisticated, featuring rich earth tones, with the beige of the chinos contrasting against the dark brown of the [**NEW ITEM'S MATERIAL, e.g.,  sunglasses frames, watch band, leather handbag**]. The mood should be calm, elegant, and aspirational.
+
+The composition should be a medium shot, focusing on the [**NEW ITEM**] and the person's legs, with the chair and a portion of the paved ground in the background. The camera angle is slightly low, offering a slightly upward perspective onto the scene. The ground is a light grey paving stone pattern, visible in the lower half of the image.
+
+The textures should be meticulously rendered; the chinos should have a subtle, slightly textured cotton appearance; the [**NEW ITEM**] should show a refined, possibly leather-like, or polished finish.  The paving stones should have a slightly rough, matte texture.
+
+The overall aesthetic style should be high-end fashion photography, clean, and minimalistic, with a focus on displaying the [**NEW ITEM**] in a luxurious and lifestyle-oriented setting.  No visible branding or text should be present.  The ambient light should create a soft, slightly hazy quality, enhancing the overall mood of elegance and sophistication.
+
+
+**Example using Sunglasses:**
+
+Generate an image of a pair of luxury sunglasses placed on the ground near the feet of a person wearing light beige chinos.  The person is sitting casually on an outdoor patio chair with a partially visible, off-white and navy blue chevron patterned seat cushion. The chair's frame is subtly visible and suggests a classic, possibly French bistro style. The scene is bathed in soft, natural, diffused daylight, casting gentle shadows on the ground. The overall color palette is warm and sophisticated, featuring rich earth tones, with the beige of the chinos contrasting against the dark brown of the sunglasses frames. The mood should be calm, elegant, and aspirational.  The composition should be a medium shot, focusing on the sunglasses and the person's legs, with the chair and a portion of the paved ground in the background. The camera angle is slightly low, offering a slightly upward perspective onto the scene. The ground is a light grey paving stone pattern. The chinos should have a subtle, slightly textured cotton appearance; the sunglasses should show a refined, polished finish. The paving stones should have a slightly rough, matte texture. The overall aesthetic style should be high-end fashion photography, clean, and minimalistic, with a focus on displaying the sunglasses in a luxurious and lifestyle-oriented setting.  No visible branding or text should be present. The ambient light should create a soft, slightly hazy quality, enhancing the overall mood of elegance and sophistication.
+
+
+PROMPT 17:
+Image: model-formal-shoe2.png
+Category: model with formal shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on your provided image:
+
+**Prompt:**
+
+A photorealistic image of a [**NEW ITEM HERE**], positioned prominently in the foreground.  The item is presented on a minimalist, white, architectural staircase, or series of platforms. The staircase should appear clean and modern, suggesting a sense of sophistication and high-end design.  The background comprises off-white, smooth walls and subtle, diffused lighting, mimicking the soft, natural light of a modern interior space. The light should be soft and even, casting minimal, gentle shadows that emphasize the shape and texture of the [**NEW ITEM HERE**] and the staircase.  A pair of legs, clad in light taupe-colored, impeccably tailored dress pants, are partially visible. The pants have a subtle crease and a smooth texture, and the fabric looks high quality.  Dark navy socks are visible above the shoe line. The overall color scheme should be muted and refined, emphasizing neutral tones—primarily off-white, light taupe, and a hint of darker navy. The mood should be sophisticated, clean, and calm, projecting a sense of luxury and understated elegance. The composition should be a close-up shot, focusing mainly on the [**NEW ITEM HERE**] and the partially visible legs, with the background serving as a minimalist backdrop that complements the central subject.  The camera angle should be slightly low, positioned at the level of the [**NEW ITEM HERE**] and directed slightly upwards, to accentuate its form.  The overall aesthetic style should be minimalist, clean, and modern, akin to high-end product photography. The texture of the [**NEW ITEM HERE**] should be clearly visible, and the materials should be rendered with high realism.  The image should evoke a sense of quiet luxury and modern sophistication.
+
+
+**Example using a watch as the new item:**
+
+"A photorealistic image of a luxury men's wristwatch, positioned prominently in the foreground on a minimalist, white, architectural staircase.  The staircase should appear clean and modern, suggesting a sense of sophistication and high-end design. The background comprises off-white, smooth walls and subtle, diffused lighting, mimicking the soft, natural light of a modern interior space. The light should be soft and even, casting minimal, gentle shadows that emphasize the shape and texture of the watch and the staircase.  A pair of legs, clad in light taupe-colored, impeccably tailored dress pants, are partially visible, with dark navy socks visible above the shoe line. The overall color scheme should be muted and refined, emphasizing neutral tones—primarily off-white, light taupe, and a hint of darker navy. The mood should be sophisticated, clean, and calm, projecting a sense of luxury and understated elegance. The composition should be a close-up shot, focusing mainly on the watch and the partially visible legs, with the background serving as a minimalist backdrop that complements the central subject.  The camera angle should be slightly low, positioned at the level of the watch and directed slightly upwards, to accentuate its form. The overall aesthetic style should be minimalist, clean, and modern, akin to high-end product photography. The texture of the watch should be clearly visible, and the materials should be rendered with high realism. The image should evoke a sense of quiet luxury and modern sophistication."
+
+
+PROMPT 18:
+Image: model-formal-shoe3.png
+Category: model with formal shoes
+Here's a detailed prompt to recreate a similar image with a different item, based on your description of the provided image:
+
+
+**Prompt:**
+
+"A photorealistic image of a pair of [**NEW ITEM HERE, e.g.,  stylish sunglasses, a luxury wristwatch, a high-end smartphone**] meticulously positioned on a light beige, textured concrete staircase overlooking a calm, azure ocean under a bright, slightly hazy sky. The staircase is made of rough-hewn, light grey concrete blocks with visible texture and subtle shadows cast by the sun. A man's legs, clad in light beige linen trousers with slightly cuffed hems, are casually positioned on the stairs, conveying a relaxed yet sophisticated vibe. The trousers are made of a slightly textured, subtly wrinkled linen. The man's skin tone is light to medium.  The lighting is natural, soft, and diffused, creating gentle shadows on the stairs and around the [**NEW ITEM HERE**].  The overall color palette is warm and muted, with the beige of the trousers and stairs contrasting with the deep blue of the ocean and the [**NEW ITEM'S COLOR HERE, e.g.,  dark tortoiseshell frame of the sunglasses,  deep blue dial of the wristwatch, sleek black body of the smartphone**]. The scene evokes a feeling of serene luxury and effortless style. The camera angle is a slightly low-angle, three-quarter shot, focusing on the [**NEW ITEM HERE**] and the man's legs, with the ocean serving as a compelling backdrop. The depth of field is shallow, ensuring the [**NEW ITEM HERE**] is sharply in focus. The overall aesthetic is clean, modern, and minimalist, with a focus on natural textures and colors. The image should appear like a high-end fashion or lifestyle editorial shoot."
+
+
+**Points to note:**
+
+* **Replace "[NEW ITEM HERE]" and "[NEW ITEM'S COLOR HERE]" with the specifics of the item you want to replace the shoes with.**  Be as descriptive as possible about the item's color, material, and even size/shape relative to the scene.
+* The prompt highlights the key aspects: background (ocean, staircase), lighting (soft, diffused sunlight), color scheme (warm, muted), composition (low-angle, shallow depth of field), textures (linen, concrete), and overall aesthetic (luxury, minimalist).  This ensures a similar mood and visual style are captured.
+*  Consider adding details about any additional small props if you wish to enhance the image further (e.g., a folded linen napkin, a partially visible glass of water, etc.).
+
+
+By following this detailed template, you should be able to create a new image that closely matches the aesthetic of the original, but features a different object of focus. Remember that the more detail you provide, the more accurately the AI will be able to generate your vision.
+
+
+PROMPT 19:
+Image: model-sports-shoe1.png
+Category: model with sports shoes
+Here's a detailed prompt to recreate a similar image, focusing on the visual elements and ignoring the branded shoes:
+
+
+**Prompt:**
+
+Generate an image of a pair of [New Item, e.g., sleek, modern headphones] in motion. The image should be focused on the [New Item] from a low, dynamic angle, capturing the sense of movement and speed. The [New Item] should be worn/held/featured by a person whose legs are the main focus in the frame, only a portion of their legs are visible, from mid-calf to the foot area. Their skin tone is medium-brown.
+
+**Background and Environment:**
+
+The background is a blurred, out-of-focus coastal scene on a sunny day. The sky is a clear, bright blue, gradually fading to a lighter hue near the horizon. A calm body of water is visible in the far background, with a subtle, almost imperceptible, hint of a distant shoreline.  The foreground is a textured, slightly rough, paved surface, possibly concrete or a similar material, with subtle color variations indicative of wear and weathering. The overall setting evokes a feeling of an outdoor, coastal running path or promenade.
+
+**Lighting and Shadows:**
+
+The lighting is bright, natural daylight, suggesting a time of day around midday.  The sun is slightly above the horizon. The light casts subtle shadows under the [New Item], enhancing its form and creating a sense of depth. The overall lighting is soft and diffuse, with no harsh shadows.
+
+**Color Scheme and Mood:**
+
+The color scheme is predominantly cool and muted, with the blues of the sky and water contrasting against the neutral tones of the ground.  The [New Item] should incorporate similar muted/pastel accents. The mood is energetic, active, and subtly serene, capturing the feeling of a refreshing outdoor run.
+
+**Composition and Framing:**
+
+The composition is dynamic, with the [New Item] as the central focus. The angle is low to the ground, looking up towards the moving legs and [New Item], emphasizing speed and movement. The framing is tight, cropping out most of the body, focusing attention solely on the legs and the [New Item].
+
+**Textures and Materials:**
+
+The textures are varied; the smooth, slightly reflective surface of the [New Item] contrasts with the slightly rough texture of the paved ground. The skin of the legs has a smooth texture.
+
+
+**Overall Aesthetic Style:**
+
+The overall aesthetic style is clean, modern, and minimalist with a touch of sporty elegance. The image should have a high-quality, professional look, similar to a promotional shot for sports or lifestyle products.
+
+**Camera Angle and Perspective:**
+
+The camera angle is low and dynamic, creating a feeling of speed and movement.  The perspective is slightly upward, looking up at the legs and the [New Item].
+
+**Environmental Details:**
+
+There are no distracting elements in the background; the focus is entirely on the [New Item] and the sense of motion.
+
+
+**Visual Atmosphere:**
+
+The overall visual atmosphere is one of vibrancy, energy, and serene outdoor activity.  The image should evoke a sense of freedom and movement.
+
+
+This detailed prompt provides enough information to recreate a similar image with a different item while maintaining the consistent aesthetic and style.  Remember to replace "[New Item]" with the actual item you want to feature.
+
+
+PROMPT 20:
+Image: model-sports-shoe2.png
+Category: model with sports shoes
+Here's a detailed prompt to recreate a similar image with a different item, focusing on the visual elements of the provided image:
+
+
+**Prompt:**
+
+Generate an image of a pair of [**New Item – e.g., stylish hiking boots, retro roller skates,  modern running shoes**]  resting on a light-colored wooden surface. The boots/skates/shoes are positioned at a slight angle, with one slightly behind and above the other. They should feature a predominantly off-white or cream base color with accents of burnt orange and teal/green. The shoes' soles have a pronounced, wavy, textured teal/green design. The shoes are worn by a person partially visible, showcasing tanned legs and white athletic socks that have a retro-inspired design featuring a small, geometric logo in teal and red.  A partially visible tennis racket with a dark green frame and a white string pattern with a red geometric detail at its center rests behind and slightly over the shoes.
+
+
+**Background, Lighting, and Atmosphere:**
+
+The background should be a muted, soft blue-gray gradient, creating a clean, minimalist backdrop.  The lighting is soft and diffused, possibly from a large window source, avoiding harsh shadows, creating a slightly nostalgic and high-fashion feel. The overall mood is light, airy, and sophisticated, with a touch of retro athletic style. The image's color palette should emphasize cream, white, burnt orange, and teal green as the main colors.
+
+**Composition and Framing:**
+
+The composition is from a slightly elevated angle, almost a three-quarter view, focusing on the shoes and partially showing the legs and racket. The background is out-of-focus, drawing attention to the main subject.  The image should have a vertical orientation with plenty of negative space around the subject. 
+
+
+**Textures and Materials:**
+
+The shoes should have a slightly matte, smooth texture contrasted by the pronounced, rubbery, wavy texture of the sole. The wood surface should look light and smooth. The tennis racket is smooth and glossy. The socks are slightly textured.
+
+
+**Aesthetic Style:**
+
+The overall aesthetic should emulate a fashion campaign or a still-life photograph with a vintage-inspired sporting feel.  Think a blend of minimalist modern and retro sports advertisement. The use of color and light creates a clean, stylized, and slightly nostalgic feel.
+
+**Example using "Stylish Hiking Boots":**
+
+Generate an image of a pair of stylish hiking boots resting on a light-colored wooden surface. The boots are positioned at a slight angle, with one slightly behind and above the other.  They should feature a predominantly off-white or cream base color with accents of burnt orange and teal/green leather/suede panels. The boots' soles have a pronounced, wavy, textured teal/green design. The boots are worn by a person partially visible, showcasing tanned legs and white athletic socks that have a retro-inspired design featuring a small, geometric logo in teal and red. A partially visible tennis racket with a dark green frame and a white string pattern with a red geometric detail at its center rests behind and slightly over the boots. The background is a muted, soft blue-gray gradient, the lighting is soft and diffused, and the overall mood is light, airy, and sophisticated with a touch of retro athletic style. The image should be vertically oriented and from a slightly elevated three-quarter view, emphasizing the boots.
+
+By replacing "[**New Item – e.g., stylish hiking boots, retro roller skates,  modern running shoes**]" with the desired item, you can adapt this prompt to generate a new image while maintaining the original's visual style and aesthetic. Remember to specify materials (e.g., leather, suede, canvas) for the new item to enhance realism.
+
+
+PROMPT 21:
+Image: model-sports-shoe3.png
+Category: model with sports shoes
+Here's a detailed prompt for recreating a similar image with a different object, based on the provided image:
+
+
+**Prompt:**
+
+Generate an image in the style of a lifestyle product shot with a focus on natural light and a slightly muted color palette.  The scene is set on an outdoor tennis court with a slightly worn, textured, dark teal-green surface.  The court's white line is visible, subtly suggesting a sense of movement and sport.  The lighting is bright and natural, likely midday sun, casting soft, slightly elongated shadows that are not harshly defined. The overall mood is calm, relaxed, and subtly sporty, evocative of a summer day.
+
+The composition should be a close-up, slightly low-angle shot focusing on the central object (REPLACE WITH NEW OBJECT HERE, e.g., a pair of sunglasses, a water bottle, a stylish beach towel, etc.) placed on the court surface.  The object's texture and material should be clearly visible.  A pair of human legs, partially visible, wearing off-white sneakers with a thick, beige sole and white socks with thin green stripes, should be positioned near the object, subtly implying presence without being the main focus. A portion of a bright green tennis racket should be visible in the background, slightly out of focus, adding to the sports context.
+
+The color scheme is predominantly muted, with off-whites, creams, beige, dark teal-green, and touches of bright green.  The overall aesthetic is clean, minimalistic, with a slightly retro or vintage feel, possibly influenced by 70's or 80's design sensibilities.  The image should have a shallow depth of field, keeping the focus sharply on the main object and blurring the background slightly.  The textures should be realistic: slightly grainy tennis court, soft suede-like texture of the shoe, smooth surface of the tennis ball (or equivalent). The overall visual atmosphere should convey a feeling of casual sophistication, effortless style, and a hint of summery nostalgia.
+
+
+**Example using a new object:**
+
+"Generate an image in the style of a lifestyle product shot… [rest of the prompt] …The central object is a pair of stylish, round sunglasses with a tortoise shell frame, resting on the tennis court. A portion of a bright green tennis racket is visible in the background, slightly out of focus..."
+
+
+This detailed prompt should enable an AI image generator to create a very similar image with a different object while maintaining the exact same background, lighting, and overall aesthetic. Remember to replace "(REPLACE WITH NEW OBJECT HERE)" with your desired object.
+
+
