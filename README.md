@@ -1,6 +1,6 @@
 # Image Analysis - Prompt Generation
 
-The project uses Google's Gemini API to generate detailed prompts for images across different product categories. The prompts are designed to describe the background, aesthetics, and visual elements of images so they can be recreated with different items while maintaining the same visual style.
+The project uses Google's Gemini API to generate detailed prompts for images across different product categories. The prompts are designed to describe the background, aesthetics, and visual elements of images so they can be recreated with different items while maintaining the same visual style. Made it more easier to use.
 
 ## Project Structure
 
